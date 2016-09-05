@@ -1,0 +1,11 @@
+Package: map1d
+Version: 0.1
+Date: 2016-09-05
+Title: Plotting One Dimensional Maps
+Description: Functions to visulaize one dimenisonal maps.
+Authors@R: person("Balint", "Tamasi", email = "balint.tamasi@gmail.com", role = c("aut", "cre"))
+Depends:
+    R (>= 3.2.2)
+License: MIT + file LICENSE
+LazyData: true
+RoxygenNote: 5.0.1
