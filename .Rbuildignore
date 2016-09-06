@@ -4,4 +4,5 @@
 .DS_Store
 .gitignore
 ^.*~$
-README.md
+README.org
+^.*\.png$
