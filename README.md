@@ -1,6 +1,6 @@
 # map1d
 
-Functions to create plots of one-dimensional maps.
+A collection of R functions to create plots of one-dimensional maps.
 
 # Installation
 
